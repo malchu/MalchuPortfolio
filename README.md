@@ -1,2 +1,0 @@
-# Personal Website
-![](readme.jpg)
